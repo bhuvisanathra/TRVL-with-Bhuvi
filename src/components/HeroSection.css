@@ -7,7 +7,7 @@ video {
 }
 
 .hero-container {
-    background: url('E:/000 Jai Kashtbhanjan Dada/0. React web pages/Travel Web Page/travel-webpage/public/images/img-home.jpg') center center/cover no-repeat;
+    background: url('images/img-home.jpg') center center/cover no-repeat;
     height: 100vh;
     width: 100%;
     display: flex;
