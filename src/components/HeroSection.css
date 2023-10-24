@@ -7,7 +7,12 @@ video {
 }
 
 .hero-container {
+
     background: url('../../public/images/img-home.jpg') center center/cover no-repeat;
+    /* Here's a breakdown of the path:
+    ../../ goes up two directory levels to reach the project's root directory.
+    Then, it follows the path to the 'public/images' directory and the 'img-home.jpg' image file. */
+
     height: 100vh;
     width: 100%;
     display: flex;
