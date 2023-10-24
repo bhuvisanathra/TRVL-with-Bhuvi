@@ -48,8 +48,4 @@ If you have any questions, suggestions, or feedback, feel free to reach out at [
 
 ---
 
-<<<<<<< HEAD
 Developed with ❤️ by [Bhuvnesh Sanathra](https://bhuviportfolio.netlify.app).
-=======
-Developed with ❤️ by [Bhuvnesh Sanathra](https://bhuviportfolio.netlify.app).
->>>>>>> e8198dbf49378af4c076d679058bbbd3ac80c29f
